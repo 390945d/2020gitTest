@@ -10,4 +10,8 @@ public class SendController {
         System.out.println("hihihi");
         return "jiji";
     }
+    @RequestMapping("/jiji")
+    public String hihi(){
+        return "";
+    }
 }
