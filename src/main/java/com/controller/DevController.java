@@ -6,11 +6,11 @@ import org.springframework.web.bind.annotation.RequestMapping;
 public class DevController {
     @RequestMapping("/get")
     public String adddev(){
-        return "222222";
+        return "iiii";
     }
 
     @RequestMapping("/send")
     public String send(){
-        return "hahaha";
+        return "uuuu";
     }
 }
