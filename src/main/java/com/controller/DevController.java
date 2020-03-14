@@ -6,7 +6,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 public class DevController {
     @RequestMapping("/get")
     public String adddev(){
-        return "iiii";
+        return "3636";
     }
 
     @RequestMapping("/send")
