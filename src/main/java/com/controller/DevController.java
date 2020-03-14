@@ -12,4 +12,8 @@ public class DevController {
     public String add(){
         return "";
     }
+    @RequestMapping("/add3")
+    public String add3(){
+        return "";
+    }
 }
