@@ -4,9 +4,9 @@ import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
 @Controller
 public class DevController {
-    @RequestMapping("/adkkev")
+    @RequestMapping("/getarrr")
     public String adddev(){
-        return "u8uuh";
+        return "1";
     }
 
     @RequestMapping("/send")
