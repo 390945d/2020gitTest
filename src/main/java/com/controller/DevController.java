@@ -4,8 +4,8 @@ import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
 @Controller
 public class DevController {
-    @RequestMapping("/adkkev")
+    @RequestMapping("/8989")
     public String adddev(){
-        return "u8uuh";
+        return "77";
     }
 }
