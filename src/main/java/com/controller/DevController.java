@@ -8,4 +8,9 @@ public class DevController {
     public String adddev(){
         return "77";
     }
+
+    @RequestMapping("/send")
+    public String send(){
+        return "";
+    }
 }
