@@ -11,6 +11,6 @@ public class DevController {
 
     @RequestMapping("/send")
     public String send(){
-        return "33333333";
+        return "hahaha";
     }
 }
