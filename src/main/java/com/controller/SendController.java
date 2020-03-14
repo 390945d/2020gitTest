@@ -7,8 +7,8 @@ import org.springframework.web.bind.annotation.RequestMapping;
 public class SendController {
     @RequestMapping("/get")
     public String get(){
-        System.out.println("hihihi");
-        return "jiji";
+        System.out.println("fechTest");
+        return "fechTest";
     }
     @RequestMapping("/jiji")
     public String hihi(){
