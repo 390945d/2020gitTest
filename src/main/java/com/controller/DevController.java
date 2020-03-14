@@ -8,4 +8,8 @@ public class DevController {
     public String hihi(){
         return "";
     }
+    @RequestMapping("/add")
+    public String add(){
+        return "";
+    }
 }
