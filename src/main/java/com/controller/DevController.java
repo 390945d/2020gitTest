@@ -4,8 +4,8 @@ import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
 @Controller
 public class DevController {
-    @RequestMapping("/jiji")
-    public String hihi(){
+    @RequestMapping("/adddev")
+    public String adddev(){
         return "";
     }
 }
