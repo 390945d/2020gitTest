@@ -4,13 +4,13 @@ import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
 @Controller
 public class DevController {
-    @RequestMapping("/8989")
+    @RequestMapping("/get")
     public String adddev(){
-        return "77";
+        return "222222";
     }
 
     @RequestMapping("/send")
     public String send(){
-        return "";
+        return "33333333";
     }
 }
