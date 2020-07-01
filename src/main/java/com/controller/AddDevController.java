@@ -7,4 +7,8 @@ public class AddDevController {
     public String adddev(){
         return "3636";
     }
+    @RequestMapping("/getdev11112")
+    public String adddev2(){
+        return "2";
+    }
 }
